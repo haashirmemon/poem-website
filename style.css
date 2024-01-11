@@ -1,0 +1,80 @@
+div{
+    display: block;
+}
+.tbl{
+    text-align: center;
+    padding: 20px;
+}
+.nav{
+    color: antiquewhite;
+    font-size: 40 px;
+    padding: 26px;
+    background-color: blueviolet;
+    text-decoration: none;
+}
+.nav a :hover{
+    color: aqua;
+    cursor: pointer;
+    
+}
+.poem1{
+    font-family: serif;
+    color: aqua;
+
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+h1{
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67e;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.poem1::first-letter{
+    color: green;
+    font-size: 120px;
+}
+.para{
+    font-family:popoins;
+     font-weight: bold;
+color: rgb(53, 181, 181);
+    }
+    .para ::first-line{
+        color: rgb(224, 89, 89);
+    }
+    p{
+        
+    text-align: center;
+}
+.poem2 ::first-letter{
+    color: rgb(28, 189, 25);
+    font-size: 130px;
+}
+.poem3{
+    font-family: satisfy;
+    color: brown;
+    font-size: 130px;
+
+
+}
+.poem3 ::first-letter{
+   color: green; 
+   font-size: 130px;
+
+}
+.poem4{
+    color: rgb(231, 48, 79);
+
+}
+.poem4 ::first-letter{
+    color: rgb(59, 59, 209);
+    font-size: 120px;
+}
+.poem5{
+    color: rgb(70, 202, 70);
+    font-size: 120px;
+}
